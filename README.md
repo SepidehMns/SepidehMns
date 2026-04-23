@@ -6,7 +6,7 @@
 
 I'm a **Data Scientist** with a foundation in statistics and machine learning. I love turning messy data into clear insights, building models that actually generalize, and communicating results so non-technical stakeholders can act on them.
 
-📍 [TODO: your city] &nbsp;·&nbsp; 🎓 [TODO: M.Sc. Data Science, your university] &nbsp;·&nbsp; 💼 **Open to full-time Data Scientist roles**
+📍 [Vancouver] &nbsp;·&nbsp; 🎓 [M.Sc. Data Science, BC] &nbsp;·&nbsp; 💼 **Open to full-time Data Scientist roles**
 
 ---
 
@@ -65,20 +65,14 @@ I'm a **Data Scientist** with a foundation in statistics and machine learning. I
 ## 📂 My featured projects
 
 #### 🤖 [Machine Learning — DASC5420](https://github.com/SepidehMns/DASC5420_ML)
-> **Problem:** [TODO — what were you predicting, and why did it matter?]
-> **Approach:** [TODO — which models, preprocessing, feature engineering?]
-> **Result:** [TODO — metric + number, e.g. "XGBoost reached 0.89 AUC vs 0.82 for logistic regression"]
 
 `Python` · `scikit-learn` · `pandas`
 
 #### 📊 [Statistical Analysis — STAT5310](https://github.com/SepidehMns/STAT5310)
-> **Problem:** [TODO — what question were you answering?]
-> **Approach:** [TODO — methods: regression, GLMs, ANOVA, etc.]
-> **Result:** [TODO — key finding + effect size]
 
 `R` · `tidyverse` · `ggplot2`
 
-#### 🚀 [TODO: Add one personal project]
+#### 🚀 [Understanding Statistics]
 > *Single highest-leverage addition before interviews — signals self-direction beyond coursework.*
 
 ---
@@ -103,9 +97,9 @@ I'm a **Data Scientist** with a foundation in statistics and machine learning. I
 ## 🤝 Let's connect
 
 <p>
-  <a href="[TODO: linkedin-url]"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[TODO: your@email.com]"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[TODO: kaggle-url, optional]"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="[ linkedin-url]"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:[ @email.com]"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[ kaggle-url ]"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 💬 **Currently interviewing** — always happy to chat about data, stats, or any of my projects.
