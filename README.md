@@ -1,12 +1,10 @@
-<h1>👋 Hi there, I'm Sepideh!</h1>
+<h1>👋 Hi there, I'm Sepideh Mansouri!</h1>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=SepidehMns&label=Profile%20views&color=7F77DD&style=flat" alt="Profile views" />
-
 I'm a **Data Scientist** with a foundation in statistics and machine learning. I love turning messy data into clear insights, building models that actually generalize, and communicating results so non-technical stakeholders can act on them.
 
-📍 [Vancouver] &nbsp;·&nbsp; 🎓 [M.Sc. Data Science, BC] &nbsp;·&nbsp; 💼 **Open to full-time Data Scientist roles**
+📍 Victoria, BC &nbsp;·&nbsp; 🎓 M.Sc. Data Science &nbsp;·&nbsp; 💼 **Open to full-time Data Scientist roles**
 
 ---
 
@@ -20,16 +18,11 @@ I'm a **Data Scientist** with a foundation in statistics and machine learning. I
 ### Machine Learning & Deep Learning
 ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-338AFF?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/-LightGBM-2B3037?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Data Manipulation
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/-tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
 
 ### Statistics
@@ -37,9 +30,9 @@ I'm a **Data Scientist** with a foundation in statistics and machine learning. I
 ![R](https://img.shields.io/badge/-dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Visualization
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/-ggplot2-1A162D?style=for-the-badge&logo=r&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
@@ -48,27 +41,23 @@ I'm a **Data Scientist** with a foundation in statistics and machine learning. I
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-> 💡 **Important:** Trim anything you wouldn't feel comfortable being asked about in an interview. Padding this list hurts you more than helps. Keep only what you've actually used.
+
 
 ---
 
 ## 📂 My featured projects
 
-#### 🤖 [Machine Learning — DASC5420](https://github.com/SepidehMns/DASC5420_ML)
+#### 🤖 [Machine Learning — DASC5420](https://github.com/sepideh-mansouri/DASC5420_ML)
 
 `Python` · `scikit-learn` · `pandas`
 
-#### 📊 [Statistical Analysis — STAT5310](https://github.com/SepidehMns/STAT5310)
+#### 📊 [Statistical Analysis — STAT5310](https://github.com/sepideh-mansouri/STAT5310)
 
 `R` · `tidyverse` · `ggplot2`
 
@@ -77,29 +66,13 @@ I'm a **Data Scientist** with a foundation in statistics and machine learning. I
 
 ---
 
-## 📈 My GitHub contributions summary
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SepidehMns&theme=dark&hide_border=true&background=0D1117&ring=FF5B5B&fire=FF5B5B&currStreakLabel=FF5B5B" alt="GitHub Streak" />
-</p>
-
----
-
-## 📊 More GitHub stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SepidehMns&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepidehMns&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&langs_count=8" />
-</p>
-
----
 
 ## 🤝 Let's connect
 
 <p>
-  <a href="[ linkedin-url]"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[ @email.com]"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[ kaggle-url ]"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sepideh-mansouri-560a3978/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mansoori.sepideh@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 💬 **Currently interviewing** — always happy to chat about data, stats, or any of my projects.
